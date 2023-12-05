@@ -1,4 +1,4 @@
 # BancoConverter
-Conversão de SQL para banco de dados não relacional (Mongo DB
+Conversão de SQL para banco de dados não relacional (Mongo DB)
 
-## QueryZap contem o a Query e o Resultado da Query
+## QueryZap contem a Query e o Resultado da Query
